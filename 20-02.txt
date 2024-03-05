@@ -1,0 +1,23 @@
+DBA- DataBase admin
+SGBD - Sistema gerenciador de banco de dados
+Gerenciamento de DB
+- Oracle
+- ABM DB2
+- MySQL
+- SQL Server - Microsoft
+- Postgres
+- MariaDB
+
+Diagramas de E/R (entidade e relacionamento)
+
+
+Data Warehouse - Armazém de dados
+
+SQL - Structured Query Language
+(linguagem de consulta estruturada)
+
+https://dev.mysql.com/downloads/mysql/
+
+DDL - Data definition language
+DQL - Data Query Language
+DML - Data manipulation language
