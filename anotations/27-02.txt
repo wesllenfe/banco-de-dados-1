@@ -1,0 +1,16 @@
+Banco de dados
+
+Uma coleção logicamente coerente de dados com determinada significação intrinseca, cuja principal finalidade é o 
+armazenamento organizado destas informações, facilitando a entrada, alteração, processamento e consulta de dados.
+
+Caracteristicas dos SGBDS
+
+- Integridade: Impedir que determinado código chave em uma tabela não tenha correspondência em outra.
+
+- Restrição ou Consistência: Evitar que um mesmo campo tenha valores diferentes em sistemas diferentes conectados ao mesmo DB.
+
+- Segurança ou Privacidade: Garantir a cada usuário o nivel de acesso a ele concedido, leitura, gravação, escrita.. a uma tabela ou campo
+
+- Restauração ou Reogarnização: Tolerância a falhas, facilitar a recuperação de falhas de hardware e software com backups e recursos automáticos
+
+- Não redundante: Sem duplicação descontrolada dos dados
